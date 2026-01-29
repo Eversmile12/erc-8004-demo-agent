@@ -1,6 +1,12 @@
 # 8004-demo-agent
 
- a demo agent to showcase 8004 registration best practices
+[ERC-8004](https://8004.org) · [Registration Guide](https://github.com/erc-8004/best-practices/blob/main/Registration.md) · [Reputation Guide](https://github.com/erc-8004/best-practices/blob/main/Reputation.md) · [Agent0 SDK](https://sdk.ag0.xyz/)
+
+---
+
+A demo agent to showcase ERC-8004 registration best practices. 
+
+Built using [create-8004-agent](https://www.npmjs.com/package/create-8004-agent)
 
 ## Quick Start
 
@@ -104,7 +110,13 @@ When you're ready for production:
 
 ## Resources
 
-- [ERC-8004 Standard](https://eips.ethereum.org/EIPS/eip-8004)
+- [ERC-8004 Spec](https://eips.ethereum.org/EIPS/eip-8004)
 - [8004scan Explorer](https://www.8004scan.io/)
 - [Agent0 SDK Docs](https://sdk.ag0.xyz/)
 - [OASF Taxonomy](https://github.com/8004-org/oasf)
+- [Registration Guide](https://github.com/erc-8004/best-practices/blob/main/Registration.md)
+- [Reputation Guide](https://github.com/erc-8004/best-practices/blob/main/Reputation.md)
+
+## License
+
+MIT
